@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Alura Viagens</string>
+    <string name="banner">Banner inicial dos pacotes</string>
+    <string name="especiais">Especiais</string>
+    <string name="pais">Brasil</string>
+    <string name="pre_o_final">Preço final:</string>
+    <string name="realizar_pagamento">Realizar Pagamento</string>
+    <string name="imagem_do_pacote">Imagem do pacote</string>
+    <string name="pagamento_activity_intro">Digite as informações do cartão de crédito que você deseja usar para o pagamento</string>
+    <string name="valor_da_compra">Valor da compra:</string>
+    <string name="pagamento_numero_cartao">Número do cartão</string>
+    <string name="pagamento_mes_cartao">MM</string>
+    <string name="pagamento_ano_cartao">AA</string>
+    <string name="pagamento_cvc_cartao">CVC</string>
+    <string name="pagamento_nome_cartao">Nome no cartão</string>
+    <string name="pagamento_botao_finalizar">Finalizar Compra</string>
+    <string name="mascara_nome_no_cartao">abcdefghijklmnopqrstuvwxyzçABCDEFGHIJKLMNOPQRSTUVWXYZ\u0020</string>
+    <string name="resumo_compras_banner">Banner do resumo de compras</string>
+    <string name="resumo_compra_parabens">Parabéns!</string>
+    <string name="resumo_compra_msg_sucesso">Compra realizada com sucesso :)</string>
+    <string name="resumo_compra_enun">Confira o resumo da compra:</string>
+    <string name="resumo_compra_imagem_pacote">Imagem do pacote comprado</string>
+    <string name="botao_de_retorno_ao_inicio">Botao de retorno ao inicio</string>
+    <string name="voltar_ao_inicio">Voltar ao inicio</string>
+</resources>
